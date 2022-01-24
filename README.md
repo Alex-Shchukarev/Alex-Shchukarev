@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on diploma project for course ORION company
+🌱 I’m currently live in Russia, NN
+📫 How to reach me: Telegram - Alex Shchukarev 
+
+[![Yandex](https://img.shields.io/badge/Y-yandex-ffcc00?&style=for-the-badge&labelColor=fc401d)](mailto:aashchukarev@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alex_shchukarev)
