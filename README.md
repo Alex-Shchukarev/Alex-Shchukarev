@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 ## ⚡ My pet-projects
 ### [Bangkok Express](https://github.com/Alex-Shchukarev/jsbasic-20210921-5_aashchukarev/tree/master/9-module/2-task)
 Restaurant with online order "Bangkok Express".
+### [Creater CV](https://vue-cv-demo-dac2a.web.app)
+Simple Vue app for create CV. DataBase and hosting by firebase. 
 ### [Command Combat](https://github.com/Alex-Shchukarev/Command-Combat)
 A project of TBS(format) combat game. There are 4 races and more than 30 types of units available in the game. Each unit has its own characteristics. Dedicated to all lovers of strategies.
