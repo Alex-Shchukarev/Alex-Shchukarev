@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ## ⚡ My pet-projects
 ### [Bangkok Express](https://github.com/Alex-Shchukarev/jsbasic-20210921-5_aashchukarev/tree/master/9-module/2-task)
 Restaurant with online order "Bangkok Express".
-### [Creater CV](https://vue-cv-demo-dac2a.web.app) ### [AppTopBloggers](https://ibs-task.web.app)
-Simple Vue app for create CV./ Simple app according task from IBS. ( All the apps - DataBase and hosting by firebase).
+### [ToDo](https://evrica-task.web.app) ### [Creater CV](https://vue-cv-demo-dac2a.web.app) ### [AppTopBloggers](https://ibs-task.web.app)
+ToDo app for daily tasks. / Simple Vue app for create CV./ Simple app according task from IBS. ( All the apps - DataBase and hosting by firebase).
 ### [Weather TD](https://vue-first-app-240f9.web.app)
 Application is creating ... (Vue app for getting weather forecast).
 ### [Command Combat](https://github.com/Alex-Shchukarev/Command-Combat)
