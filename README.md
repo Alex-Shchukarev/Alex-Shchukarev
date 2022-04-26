@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alex_shchukarev)
 
 ## ⚡ My pet-projects
-### [Bangkok Express](https://github.com/Alex-Shchukarev/jsbasic-20210921-5_aashchukarev/tree/master/9-module/2-task)
+### [Bangkok Express](https://course-jsbasic.javascript.ru)
 Restaurant with online order "Bangkok Express".
 ### [ToDo](https://evrica-task.web.app) ### [Creater CV](https://vue-cv-demo-dac2a.web.app) ### [AppTopBloggers](https://ibs-task.web.app)
 ToDo app for daily tasks. / Simple Vue app for create CV./ Simple app according task from IBS. ( All the apps - DataBase and hosting by firebase).
