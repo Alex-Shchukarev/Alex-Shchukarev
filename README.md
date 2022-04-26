@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ## ⚡ My pet-projects
 ### [Bangkok Express](https://course-jsbasic.javascript.ru)
 Restaurant with online order "Bangkok Express".
-### [ToDo](https://ToDo.alsch19.repl.co) ### [Creater CV](https://vue-cv-demo-dac2a.web.app) ### [AppTopBloggers](https://ibs-task.web.app)
+### [ToDo](https://github.com/Alex-Shchukarev/ToDo) ### [AppTopBloggers](https://github.com/Alex-Shchukarev/AppTopBloggers)
 ToDo app for daily tasks. / Simple Vue app for create CV./ Simple app according task from IBS. ( All the apps - DataBase and hosting by firebase).
-### [Weather TD](https://vue-first-app-240f9.web.app)
+### [Weather TD](https://github.com/Alex-Shchukarev/JSlearn/tree/main)
 Application is creating ... (Vue app for getting weather forecast).
 ### [Command Combat](https://github.com/Alex-Shchukarev/Command-Combat)
 A project of TBS(format) combat game. There are 4 races and more than 30 types of units available in the game. Each unit has its own characteristics. Dedicated to all lovers of strategies.
