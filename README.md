@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on diploma project for course ORION company
+🔭 I’m currently working on my projects
 
 🌱 I’m currently live in Russia, NN
 
