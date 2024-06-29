@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 ## ⚡ My pet-projects
 ### [Bangkok Express](https://course-jsbasic.javascript.ru)
 Restaurant with online order "Bangkok Express".
-### [ToDo](https://github.com/Alex-Shchukarev/ToDo) ### [AppTopBloggers](https://github.com/Alex-Shchukarev/AppTopBloggers)
-ToDo app for daily tasks. / Simple Vue app for create CV./ Simple app according task from IBS. ( All the apps - DataBase and hosting by firebase).
+### [USK](https://TZ-Komtek.alsch19.repl.co)
+Consulting accounting system: It is necessary to design and develop an accounting system “Consultations”.
 ### [Weather TD](https://github.com/Alex-Shchukarev/JSlearn/tree/main)
 Application is creating ... (Vue app for getting weather forecast).
-### [Command Combat](https://github.com/Alex-Shchukarev/Command-Combat)
-A project of TBS(format) combat game. There are 4 races and more than 30 types of units available in the game. Each unit has its own characteristics. Dedicated to all lovers of strategies.
